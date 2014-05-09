@@ -1,0 +1,14 @@
+{
+  "name": "e2etest",
+  "version": "0.0.1",
+  "description": "End-to-End test AngualarJS without Protractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Zev23",
+  "license": "MIT",
+  "devDependencies": {
+    "webdriverjs": "~1.6.1"
+  }
+}

@@ -1,0 +1,4 @@
+*.swp
+test/screenshots/
+node_modules/
+*.log
